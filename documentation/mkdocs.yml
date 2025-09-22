@@ -1,3 +1,8 @@
 site_name: PTXConf docs
 theme: readthedocs
 
+pages:
+  - Home: index.md
+  - API Reference: API.md
+  - Router Reliability Analysis: router-reliability-blog.md
+

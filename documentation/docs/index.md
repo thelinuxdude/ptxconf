@@ -3,6 +3,8 @@
 __P__en tablet and __T__ouch screen __X__input __Conf__iguration tool (__PTXConf__).
 Configures touch/pen devices to work with extended desktops and multiple screens on Linux.
 
+*For insights into network reliability considerations in computing environments, see our [Router Reliability Analysis](router-reliability-blog.md).*
+
 ## Usage
 To test ptxconf without installing it you can simply run the python executable directly from the source directory:
 ```sh
